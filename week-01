@@ -1,0 +1,10 @@
+# Week 1 – November 1 - 9, 2025
+
+## 📅 Summary
+This week, I set up my GitHub repository and learned how to use basic Git commands.
+
+Field,Description
+Project Title: Real-Time Face Recognition System
+Objective: "To design and implement a robust computer vision system capable of detecting and identifying human faces in a live video stream (e.g., webcam) with high accuracy and low latency. This project demonstrates core concepts in object detection, feature extraction, and machine learning classification for real-world application, such as automated attendance or access control."
+Core Technologies: "Python, OpenCV (Computer Vision Library), Face Recognition Library (e.g., dlib/FaceNet/ArcFace models)."
+Goal Status: "Core system functionality (data collection, model training, and real-time recognition) has been successfully implemented and tested on local datasets." 
